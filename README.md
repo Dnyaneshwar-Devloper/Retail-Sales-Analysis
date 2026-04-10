@@ -1,5 +1,7 @@
 <p align="center"><h1>GoPuff Delivery Analysis</h1></p>
-### 📊 Data Analysis | EDA | Business Insights
+
+## 📊 Data Analysis | EDA | Business Insights
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=GoPuff+Data+Analysis+Project;Exploratory+Data+Analysis+(EDA);Data+Driven+Insights+%F0%9F%93%8A;Python+%7C+Pandas+%7C+Visualization" />
 </p>
