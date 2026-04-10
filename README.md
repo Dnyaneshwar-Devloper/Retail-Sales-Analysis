@@ -197,6 +197,6 @@ If you like this project:
 
 ---
 
-✅ **READY TO PASTE INTO GITHUB**
+
 
 ---
