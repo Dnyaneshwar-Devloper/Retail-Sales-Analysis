@@ -1,4 +1,4 @@
-GoPuff Delivery Analysis
+## GoPuff Delivery Analysis
 
 ### 📊 Data Analysis | EDA | Business Insights
 
@@ -176,10 +176,10 @@ Contributions are welcome!
 
 ## 📬 Contact
 
-📧 Email: [dnyaneshwar.surve.official@gmail.com](mailto:dnyaneshwar.surve.official@gmail.com)
-📱 Phone: +91 9359731539
-🔗 GitHub: [https://github.com/Dnyaneshwar-Devloper](https://github.com/Dnyaneshwar-Devloper)
-🔗 LinkedIn: [https://www.linkedin.com/in/dnyaneshwarsurve](https://www.linkedin.com/in/dnyaneshwarsurve)
+* 📧 Email: [dnyaneshwar.surve.official@gmail.com](mailto:dnyaneshwar.surve.official@gmail.com)
+* 📱 Phone: +91 9359731539
+* 🔗 GitHub: [https://github.com/Dnyaneshwar-Devloper](https://github.com/Dnyaneshwar-Devloper)
+* 🔗 LinkedIn: [https://www.linkedin.com/in/dnyaneshwarsurve](https://www.linkedin.com/in/dnyaneshwarsurve)
 
 ---
 
