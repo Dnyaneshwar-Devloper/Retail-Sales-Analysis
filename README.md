@@ -1,4 +1,4 @@
-<p align="center"><h1>GoPuff Delivery Analysis</h1></p>
+<p align="center"> GoPuff Delivery Analysis </p>
 
 ## 📊 Data Analysis | EDA | Business Insights
 
