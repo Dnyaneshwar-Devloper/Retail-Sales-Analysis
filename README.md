@@ -88,26 +88,16 @@ Using **Python-based analytics**, the project uncovers actionable insights that 
 
 ## 📊 Workflow
 
-<svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="500"/>
+</p>
 
-  <!-- Line -->
-  <line x1="50" y1="60" x2="750" y2="60" stroke="#4CAF50" stroke-width="4" stroke-dasharray="10,5">
-    <animate attributeName="stroke-dashoffset" from="0" to="100" dur="4s" repeatCount="indefinite"/>
-  </line>
+1. Data Collection
+2. Data Cleaning & Preprocessing
+3. Exploratory Data Analysis
+4. Visualization & Insights
+5. Business Recommendations
 
-  <!-- Moving Circle -->
-  <circle cx="50" cy="60" r="10" fill="#00FFAA">
-    <animate attributeName="cx" from="50" to="750" dur="4s" repeatCount="indefinite"/>
-  </circle>
-
-  <!-- Labels -->
-  <text x="50" y="100" fill="white" font-size="12">📥 Data</text>
-  <text x="200" y="100" fill="white" font-size="12">🧹 Cleaning</text>
-  <text x="350" y="100" fill="white" font-size="12">📊 EDA</text>
-  <text x="500" y="100" fill="white" font-size="12">📈 Viz</text>
-  <text x="650" y="100" fill="white" font-size="12">💡 Insights</text>
-
-</svg>
 ---
 
 ## 📈 Key Features
